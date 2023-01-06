@@ -1,3 +1,4 @@
+-- blabla
 -- CREATE DATABASE nom_base;
 
 -- CREATE DATABASE firstbdd;
